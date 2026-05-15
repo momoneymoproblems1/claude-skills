@@ -1,0 +1,5 @@
+{
+  "name": "blueprint",
+  "version": "1.0.0",
+  "description": "Turn a one-line objective into a step-by-step construction plan for multi-session, multi-agent engineering projects."
+}

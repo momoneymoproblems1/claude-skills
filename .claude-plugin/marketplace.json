@@ -1,0 +1,114 @@
+{
+  "plugins": [
+    {
+      "name": "boris",
+      "path": "plugins/boris",
+      "description": "87 Claude Code workflow tips from Boris Cherny (creator of Claude Code) and the Claude Code team. PROACTIVE MODE: Whe..."
+    },
+    {
+      "name": "compliance-officer",
+      "path": "plugins/compliance-officer",
+      "description": "SEC and FINRA Compliance Officer for investment advisers and broker-dealers. Implements compliance programs, conducts..."
+    },
+    {
+      "name": "finance-skills",
+      "path": "plugins/finance-skills",
+      "description": "Financial analyst agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. Ratio analysis, DCF va..."
+    },
+    {
+      "name": "financial-planner",
+      "path": "plugins/financial-planner",
+      "description": "CERTIFIED FINANCIAL PLANNER professional providing comprehensive financial planning across all CFP Board practice dom..."
+    },
+    {
+      "name": "insurance-specialist",
+      "path": "plugins/insurance-specialist",
+      "description": "US Insurance Specialist for life, disability, long-term care, and annuity planning. Conducts needs analysis, compares..."
+    },
+    {
+      "name": "investment-adviser",
+      "path": "plugins/investment-adviser",
+      "description": "US Registered Investment Adviser (RIA) and Investment Adviser Representative (IAR) with SEC and state regulatory expe..."
+    },
+    {
+      "name": "retirement-specialist",
+      "path": "plugins/retirement-specialist",
+      "description": "US Retirement Planning Specialist with expertise in 401(k), 403(b), IRA, Roth conversions, Social Security optimizati..."
+    },
+    {
+      "name": "svg-logo-designer",
+      "path": "plugins/svg-logo-designer",
+      "description": "Create professional SVG logos from descriptions and design specifications. Generates multiple logo variations with di..."
+    },
+    {
+      "name": "accessibility",
+      "path": "plugins/accessibility",
+      "description": "Design, implement, and audit inclusive digital products using WCAG 2.2 Level AA"
+    },
+    {
+      "name": "api-design",
+      "path": "plugins/api-design",
+      "description": "REST API design patterns including resource naming, status codes, pagination, filtering, error responses, versioning,..."
+    },
+    {
+      "name": "backend-patterns",
+      "path": "plugins/backend-patterns",
+      "description": "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express..."
+    },
+    {
+      "name": "blueprint",
+      "path": "plugins/blueprint",
+      "description": "Turn a one-line objective into a step-by-step construction plan for multi-session, multi-agent engineering projects."
+    },
+    {
+      "name": "caveman",
+      "path": "plugins/caveman",
+      "description": "Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accu..."
+    },
+    {
+      "name": "coding-standards",
+      "path": "plugins/coding-standards",
+      "description": "Coding standards and best practices for consistent, maintainable code across projects."
+    },
+    {
+      "name": "critique",
+      "path": "plugins/critique",
+      "description": "Evaluate design from a UX perspective, assessing visual hierarchy, information architecture, emotional resonance, cog..."
+    },
+    {
+      "name": "design-system",
+      "path": "plugins/design-system",
+      "description": "Use this skill to generate or audit design systems, check visual consistency, and review PRs that touch styling."
+    },
+    {
+      "name": "e2e-testing",
+      "path": "plugins/e2e-testing",
+      "description": "Playwright E2E testing patterns, Page Object Model, configuration, CI/CD integration, artifact management, and flaky ..."
+    },
+    {
+      "name": "find-skills",
+      "path": "plugins/find-skills",
+      "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is..."
+    },
+    {
+      "name": "frontend-patterns",
+      "path": "plugins/frontend-patterns",
+      "description": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices."
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "path": "plugins/ui-ux-pro-max",
+      "description": "UI/UX design intelligence for web and mobile. Includes 50+ styles, 161 color palettes, 57 font pairings, 161 product ..."
+    },
+    {
+      "name": "using-superpowers",
+      "path": "plugins/using-superpowers",
+      "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before A..."
+    },
+    {
+      "name": "vercel-react-best-practices",
+      "path": "plugins/vercel-react-best-practices",
+      "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing..."
+    }
+  ]
+}
