@@ -1,114 +1,120 @@
 {
+  "name": "claude-skills",
+  "description": "Personal Claude Code skills collection — caveman, boris, finance, design, dev patterns, and more",
+  "owner": {
+    "name": "momoneymoproblems1",
+    "url": "https://github.com/momoneymoproblems1"
+  },
   "plugins": [
     {
       "name": "boris",
-      "path": "plugins/boris",
-      "description": "87 Claude Code workflow tips from Boris Cherny (creator of Claude Code) and the Claude Code team. PROACTIVE MODE: Whe..."
+      "source": "./plugins/boris",
+      "description": "87 Claude Code workflow tips from Boris Cherny and the Claude Code team"
     },
     {
       "name": "compliance-officer",
-      "path": "plugins/compliance-officer",
-      "description": "SEC and FINRA Compliance Officer for investment advisers and broker-dealers. Implements compliance programs, conducts..."
+      "source": "./plugins/compliance-officer",
+      "description": "SEC/FINRA compliance officer — AML/BSA, Form ADV, regulatory guidance"
     },
     {
       "name": "finance-skills",
-      "path": "plugins/finance-skills",
-      "description": "Financial analyst agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. Ratio analysis, DCF va..."
+      "source": "./plugins/finance-skills",
+      "description": "DCF analysis, ratio analysis, budget variance, and financial modeling"
     },
     {
       "name": "financial-planner",
-      "path": "plugins/financial-planner",
-      "description": "CERTIFIED FINANCIAL PLANNER professional providing comprehensive financial planning across all CFP Board practice dom..."
+      "source": "./plugins/financial-planner",
+      "description": "CFP-level comprehensive financial planning — retirement, tax, estate"
     },
     {
       "name": "insurance-specialist",
-      "path": "plugins/insurance-specialist",
-      "description": "US Insurance Specialist for life, disability, long-term care, and annuity planning. Conducts needs analysis, compares..."
+      "source": "./plugins/insurance-specialist",
+      "description": "Life, disability, LTC, and annuity insurance planning"
     },
     {
       "name": "investment-adviser",
-      "path": "plugins/investment-adviser",
-      "description": "US Registered Investment Adviser (RIA) and Investment Adviser Representative (IAR) with SEC and state regulatory expe..."
+      "source": "./plugins/investment-adviser",
+      "description": "RIA/IAR fiduciary investment advice and portfolio guidance"
     },
     {
       "name": "retirement-specialist",
-      "path": "plugins/retirement-specialist",
-      "description": "US Retirement Planning Specialist with expertise in 401(k), 403(b), IRA, Roth conversions, Social Security optimizati..."
+      "source": "./plugins/retirement-specialist",
+      "description": "401(k), IRA, Roth, Social Security retirement planning"
     },
     {
       "name": "svg-logo-designer",
-      "path": "plugins/svg-logo-designer",
-      "description": "Create professional SVG logos from descriptions and design specifications. Generates multiple logo variations with di..."
+      "source": "./plugins/svg-logo-designer",
+      "description": "SVG logo design and generation"
     },
     {
       "name": "accessibility",
-      "path": "plugins/accessibility",
-      "description": "Design, implement, and audit inclusive digital products using WCAG 2.2 Level AA"
+      "source": "./plugins/accessibility",
+      "description": "WCAG 2.2 Level AA accessibility implementation for web and native"
     },
     {
       "name": "api-design",
-      "path": "plugins/api-design",
-      "description": "REST API design patterns including resource naming, status codes, pagination, filtering, error responses, versioning,..."
+      "source": "./plugins/api-design",
+      "description": "REST and GraphQL API design patterns and best practices"
     },
     {
       "name": "backend-patterns",
-      "path": "plugins/backend-patterns",
-      "description": "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express..."
+      "source": "./plugins/backend-patterns",
+      "description": "Backend architecture patterns and best practices"
     },
     {
       "name": "blueprint",
-      "path": "plugins/blueprint",
-      "description": "Turn a one-line objective into a step-by-step construction plan for multi-session, multi-agent engineering projects."
+      "source": "./plugins/blueprint",
+      "description": "Turn a one-line objective into a step-by-step multi-session engineering plan"
     },
     {
       "name": "caveman",
-      "path": "plugins/caveman",
-      "description": "Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accu..."
+      "source": "./plugins/caveman",
+      "description": "Terse caveman response style — drops filler, keeps all technical substance"
     },
     {
       "name": "coding-standards",
-      "path": "plugins/coding-standards",
-      "description": "Coding standards and best practices for consistent, maintainable code across projects."
+      "source": "./plugins/coding-standards",
+      "description": "Coding standards enforcement and style guidance"
     },
     {
       "name": "critique",
-      "path": "plugins/critique",
-      "description": "Evaluate design from a UX perspective, assessing visual hierarchy, information architecture, emotional resonance, cog..."
+      "source": "./plugins/critique",
+      "description": "Critical analysis and structured feedback on code, design, and writing"
     },
     {
       "name": "design-system",
-      "path": "plugins/design-system",
-      "description": "Use this skill to generate or audit design systems, check visual consistency, and review PRs that touch styling."
+      "source": "./plugins/design-system",
+      "description": "Design system architecture, tokens, and component guidance"
     },
     {
       "name": "e2e-testing",
-      "path": "plugins/e2e-testing",
-      "description": "Playwright E2E testing patterns, Page Object Model, configuration, CI/CD integration, artifact management, and flaky ..."
+      "source": "./plugins/e2e-testing",
+      "description": "End-to-end testing strategy and implementation"
     },
     {
       "name": "find-skills",
-      "path": "plugins/find-skills",
-      "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is..."
+      "source": "./plugins/find-skills",
+      "description": "Discover and search available skills"
     },
     {
       "name": "frontend-patterns",
-      "path": "plugins/frontend-patterns",
-      "description": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices."
+      "source": "./plugins/frontend-patterns",
+      "description": "Frontend architecture patterns and component best practices"
     },
     {
       "name": "ui-ux-pro-max",
-      "path": "plugins/ui-ux-pro-max",
-      "description": "UI/UX design intelligence for web and mobile. Includes 50+ styles, 161 color palettes, 57 font pairings, 161 product ..."
+      "source": "./plugins/ui-ux-pro-max",
+      "description": "Expert UI/UX design guidance and interface critique"
     },
     {
       "name": "using-superpowers",
-      "path": "plugins/using-superpowers",
-      "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before A..."
+      "source": "./plugins/using-superpowers",
+      "description": "Guide to using Claude Code superpowers and advanced features"
     },
     {
       "name": "vercel-react-best-practices",
-      "path": "plugins/vercel-react-best-practices",
-      "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing..."
+      "source": "./plugins/vercel-react-best-practices",
+      "description": "Vercel deployment and React best practices"
     }
   ]
 }
