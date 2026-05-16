@@ -1,0 +1,5 @@
+{
+  "name": "playwright-cli",
+  "version": "1.0.0",
+  "description": "Automate browser interactions, test web pages and work with Playwright tests via token-efficient CLI commands"
+}

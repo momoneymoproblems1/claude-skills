@@ -1,6 +1,6 @@
 {
   "name": "claude-skills",
-  "description": "Personal Claude Code skills collection — caveman, boris, finance, design, dev patterns, and more",
+  "description": "Personal Claude Code skills collection \u00e2\u20ac\u201d caveman, boris, finance, design, dev patterns, and more",
   "owner": {
     "name": "momoneymoproblems1",
     "url": "https://github.com/momoneymoproblems1"
@@ -14,7 +14,7 @@
     {
       "name": "compliance-officer",
       "source": "./plugins/compliance-officer",
-      "description": "SEC/FINRA compliance officer — AML/BSA, Form ADV, regulatory guidance"
+      "description": "SEC/FINRA compliance officer \u00e2\u20ac\u201d AML/BSA, Form ADV, regulatory guidance"
     },
     {
       "name": "finance-skills",
@@ -24,7 +24,7 @@
     {
       "name": "financial-planner",
       "source": "./plugins/financial-planner",
-      "description": "CFP-level comprehensive financial planning — retirement, tax, estate"
+      "description": "CFP-level comprehensive financial planning \u00e2\u20ac\u201d retirement, tax, estate"
     },
     {
       "name": "insurance-specialist",
@@ -69,7 +69,7 @@
     {
       "name": "caveman",
       "source": "./plugins/caveman",
-      "description": "Terse caveman response style — drops filler, keeps all technical substance"
+      "description": "Terse caveman response style \u00e2\u20ac\u201d drops filler, keeps all technical substance"
     },
     {
       "name": "coding-standards",
@@ -115,6 +115,16 @@
       "name": "vercel-react-best-practices",
       "source": "./plugins/vercel-react-best-practices",
       "description": "Vercel deployment and React best practices"
+    },
+    {
+      "name": "playwright-cli",
+      "source": "./plugins/playwright-cli",
+      "description": "Automate browser interactions and test web pages via token-efficient CLI commands"
+    },
+    {
+      "name": "gsd",
+      "source": "./plugins/gsd",
+      "description": "Get Shit Done \u2014 structured dev loop with persistent context, 67 commands, and 33 specialized agents"
     }
   ]
 }
